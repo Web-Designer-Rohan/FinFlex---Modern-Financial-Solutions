@@ -1,11 +1,10 @@
 # FinFlex - Modern Financial Infrastructure
 
-![FinFlex Banner](https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2000&auto=format&fit=crop)
-
 **FinFlex** is a cutting-edge financial web platform built with React, TypeScript, and Tailwind CSS. It focuses on delivering a high-performance, aesthetically pleasing user experience through advanced animations, 3D interactions, and glassmorphism design principles.
 
 # Preview
 ![Preview](fin.png)
+
 ## 🚀 Features
 
 ### Core Experience
